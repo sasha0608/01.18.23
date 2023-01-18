@@ -1,0 +1,182 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background: #F6F6FA;
+    padding:40px ;
+
+
+}
+.wrapper{
+    display: flex;
+    flex-direction: row;
+    background: #ffffff;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+
+
+
+
+
+
+
+
+
+/* sat-bar */
+.sat-bar{
+    background-color:#E0EBFE ;
+    width: 370px;
+}
+.sat-bar-img{
+    padding-top:40px ;
+}
+.sat-bar-div{
+    padding-left: 40px;
+}
+.sat-bar-h4{
+    margin: 0;
+}
+.sat-bar-h2{
+    margin: 0%;
+    margin-top: 40px;
+    margin-bottom: 8px;
+    font-weight: 700;
+font-size: 22px;
+line-height: 27px;
+width: 121px;
+padding-top:44px;
+padding-bottom: 8px;
+}
+.sat-bar-t{
+    text-decoration: none;
+    color: #161D2A;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+.sat-bar-e{
+    color: #6D9BF5;
+}
+.sat-bar-CE{
+    margin-left: 10px;
+}
+
+
+
+/* tech-skils */
+.t-skills-ul{
+    margin: 0;
+    padding: 0 0 0 22px;
+}
+.t-skills-li-items{
+    color: #6D9BF5  ;
+}
+.t-skills-li-text{
+    color: #161D2A;
+    font-size: 14px;
+    line-height: 24px;
+
+}
+.s-skills-li-item{
+    color: #6D9BF5  ;
+}
+.s-skills-ul{
+    margin: 0;
+    padding: 0 0 0 22px;
+}
+
+
+/* other-content */
+
+.other-content{
+    padding-left: 48px;
+}
+.h3-FE{
+    padding-top: 102px;
+    padding-bottom: 19px;
+}
+.title{
+    margin-bottom: 29px;
+    font-size: 45px;
+line-height: 55px;
+}
+.title-p{
+    color: #595959;
+    font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+width: 525px;
+height: 96px;
+
+}
+.projects-h2{
+    margin-top: 64px ;
+    margin-bottom: 8px;
+}
+.projects-ol{
+    margin: 0;
+    padding: 0 0 0 20px;
+}
+.projects-ol-a{
+    padding-left: 10px;
+}
+
+/* work */
+.work-h2{
+    margin-top: 51px;
+    margin-bottom: 12px;
+    font-size: 22px;
+    line-height: 27px;
+}
+.work-h3{
+    margin: 0;
+    line-height: 20px;
+}
+span{
+    color:#6D9BF5;
+}
+.work-p{
+    margin: 0;
+    margin-top: 11px;
+    margin-bottom:8px ;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+}
+.work-ul{
+    margin: 0 0 16px 0;
+    padding: 0 0 0 20px;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+
+/* education */
+.education-h1{
+    margin-top: 43px;
+    margin-bottom: 12px;
+    font-weight: 700;
+font-size: 22px;
+line-height: 27px;
+}
+.education-h2{
+    font-weight: 700;
+line-height: 20px;
+}
+.education-h3{
+    margin: 0;
+    margin-top: 11px;
+    font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+}
+.education-p{
+    font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+margin-bottom: 107px;
+
+color: #A8A8A8;
+
+}
